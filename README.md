@@ -15,10 +15,10 @@ python play.py is_black
 ```
 其中is_black=1为先手，0为后手。
 
-#### UI版
+<!-- #### UI版
 游戏界面在Unity AssetStore中免费的[Connect 4 Starter Kit](https://assetstore.unity.com/packages/templates/connect-four-starter-kit-19722)基础上进行修改。利用UDP Socket进行客户端和服务器之间的通信。在进入游戏前需要运行`server.py`启动服务器，并指定相应的服务器地址和端口，默认地址是localhost:5555。
 ```
 python server.py ip_address port_number
 ```
 
-解压Connect4.zip, 双击`Connnect4/Connect4.exe`（Windows系统下）进入游戏界面。用户需要在初始化界面中输入服务器的地址和端口，选择先后手，点击Start进入游戏。游戏结束后点击PLAY AGAIN重新开始。
+解压Connect4.zip, 双击`Connnect4/Connect4.exe`（Windows系统下）进入游戏界面。用户需要在初始化界面中输入服务器的地址和端口，选择先后手，点击Start进入游戏。游戏结束后点击PLAY AGAIN重新开始。 -->
