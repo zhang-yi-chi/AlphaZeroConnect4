@@ -21,4 +21,4 @@ python play.py is_black
 python server.py ip_address port_number
 ```
 
-双击`Connnect4/Connect4.exe`（Windows系统下）进入游戏界面。用户需要在初始化界面中输入服务器的地址和端口，选择先后手，点击Start进入游戏。游戏结束后点击PLAY AGAIN重新开始。
+解压Connect4.zip, 双击`Connnect4/Connect4.exe`（Windows系统下）进入游戏界面。用户需要在初始化界面中输入服务器的地址和端口，选择先后手，点击Start进入游戏。游戏结束后点击PLAY AGAIN重新开始。

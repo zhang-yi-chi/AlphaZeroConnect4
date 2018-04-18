@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Connect Four/scenes/begin.unity
-  isLoaded: 1
-  isActive: 1
